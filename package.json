@@ -1,0 +1,12 @@
+{
+  "name": "knip-remix-plugin-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@remix-run/headers": "1.0.1"
+  },
+  "devDependencies": {
+    "knip": "6.43.0",
+    "vitest": "^5.0.0"
+  }
+}
