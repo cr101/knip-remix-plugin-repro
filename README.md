@@ -13,5 +13,3 @@ Output:
 Unlisted dependencies (1)
 vitest  app/routes/home.test.ts:1:30
 ```
-
-Adding `"remix": false` to `knip.json` makes the run pass.
